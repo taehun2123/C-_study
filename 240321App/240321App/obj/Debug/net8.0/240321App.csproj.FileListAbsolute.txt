@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Coding/C#/240321App/240321App/bin/Debug/net8.0/240321App
+/Users/mac/Desktop/Coding/C#/240321App/240321App/bin/Debug/net8.0/240321App.deps.json
+/Users/mac/Desktop/Coding/C#/240321App/240321App/bin/Debug/net8.0/240321App.runtimeconfig.json
+/Users/mac/Desktop/Coding/C#/240321App/240321App/bin/Debug/net8.0/240321App.dll
+/Users/mac/Desktop/Coding/C#/240321App/240321App/bin/Debug/net8.0/240321App.pdb
+/Users/mac/Desktop/Coding/C#/240321App/240321App/obj/Debug/net8.0/240321App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Coding/C#/240321App/240321App/obj/Debug/net8.0/240321App.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Coding/C#/240321App/240321App/obj/Debug/net8.0/240321App.AssemblyInfo.cs
+/Users/mac/Desktop/Coding/C#/240321App/240321App/obj/Debug/net8.0/240321App.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Coding/C#/240321App/240321App/obj/Debug/net8.0/240321App.sourcelink.json
+/Users/mac/Desktop/Coding/C#/240321App/240321App/obj/Debug/net8.0/240321App.dll
+/Users/mac/Desktop/Coding/C#/240321App/240321App/obj/Debug/net8.0/refint/240321App.dll
+/Users/mac/Desktop/Coding/C#/240321App/240321App/obj/Debug/net8.0/240321App.pdb
+/Users/mac/Desktop/Coding/C#/240321App/240321App/obj/Debug/net8.0/240321App.genruntimeconfig.cache
+/Users/mac/Desktop/Coding/C#/240321App/240321App/obj/Debug/net8.0/ref/240321App.dll
